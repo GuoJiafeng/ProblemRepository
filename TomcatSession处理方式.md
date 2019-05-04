@@ -1,3 +1,7 @@
+原味：https://ajita.iteye.com/blog/1848665
+
+
+
 **Session处理**
 另一方面就是多个业务逻辑单元之间的Session处理，处理方式有两种，一种是Session sticky模式，另外一种是Session共享模式。
 
