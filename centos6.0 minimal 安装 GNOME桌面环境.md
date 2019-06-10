@@ -1,5 +1,9 @@
 <https://blog.csdn.net/hotday_kevin/article/details/8310054>
 
+<https://blog.csdn.net/cyf0110/article/details/84499210>
+
+
+
 ****#yum groupinstall "X Window System"
 
 **** yum  groupinstall "Desktop"
