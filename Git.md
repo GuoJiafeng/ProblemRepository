@@ -12,11 +12,11 @@
 
 ​	什么是分布式版本控制系统 : git
 
-![1541593092109](C:\Users\R\AppData\Local\Temp\1541593092109.png)
+
 
 ​	什么是集中式版本控制系统 : SVN  CVS
 
-![1541592805240](C:\Users\R\AppData\Local\Temp\1541592805240.png)
+
 
 分布式版本控制系统的优势
 
